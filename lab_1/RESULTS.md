@@ -14,7 +14,7 @@ docker ps
 ```
 
 ## Порядок выполнения скриптов
-1. Подключаемся к базе данных:
+1. Подключаемся к базе данных(Пароль:password):
 ```bash
 psql -h localhost -p 5432 -U postgres -d pet_store
 ```
